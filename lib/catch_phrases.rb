@@ -13,3 +13,7 @@ def link
   puts warning
 end 
 
+def any_phrase (phrase)
+  
+end 
+
