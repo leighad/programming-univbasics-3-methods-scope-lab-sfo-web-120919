@@ -13,12 +13,12 @@ def link
   puts warning
 end 
 
-# def any_phrase (phrase)
-#   phrase = "Do A Barrel Roll!"
-#   puts phrase
-# end 
-
-$phrase = "Do A Barrel Roll!"
 def any_phrase (phrase)
+  phrase = "Do A Barrel Roll!"
   puts phrase
-end
+end 
+
+# $phrase = "Do A Barrel Roll!"
+# def any_phrase (phrase)
+#   puts phrase
+# end
